@@ -87,6 +87,15 @@ header{
 	background-color: #73411c;
 	border-radius: 0px;
 }
+
+.opening_hours{
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+}
+.opening_hours td{
+	border: none !important;
+}
 .page-header,
 .page-footer{
 	margin: 0px;
