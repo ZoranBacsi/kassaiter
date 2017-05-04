@@ -25,9 +25,9 @@
             <div class="col-sm-4 col-lg-4">
                 <h3>Hasznos linkek</h3>
                 <ul class="link-list">
-                    <li><a href="#">Link 1</a></li>
-                    <li><a href="#">Link 2</a></li>
-                    <li><a href="#">Link 3</a></li>
+                    <li><a href="http://andrasatya.blog.hu">András Atya Blogja</a></li>
+                    <li><a href="http://kkakademia.hu">Keresztény Kultúrális Akadémia</a></li>
+                    <li><a href="http://www.magyarkurir.hu">Magyar Kurír</a></li>
                 </ul>
             </div>
         </div>
