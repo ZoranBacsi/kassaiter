@@ -1,11 +1,46 @@
-// Fonts
-@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
-
 // Variables
 @import "variables";
 
 // Bootstrap
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+.nav-pills{
+  li{
+    a{
+      border-radius: 0 0 6px 6px;
+      color: #333 !important;
+    }
+    a:focus, a:visited{
+      color: #333 !important;
+      background-color: #C0C0C0 !important;
+    }
+  }
+}
+
+li.active{
+  a{
+    color: #333 !important;
+    background-color: #C0C0C0 !important;
+  }
+}
+.top_align{
+  position: relative;
+  top: -32px;
+}
+
+.content_pic_l{
+  width: 20%;
+  vertical-align: text-top;
+  float: left;
+  margin: 5px 10px;
+}
+
+.content_pic_r{
+  width: 20%;
+  vertical-align: text-top;
+  float: right;
+  margin: 5px 10px;
+}
 
 .created{
   text-align:right;
@@ -13,6 +48,12 @@
 .glyphicon-chevron-down {
   font-size: 8px;
 }
+
+.undotted{
+  list-style: none outside none;
+  padding-left: 5px;
+}
+
 footer{
   background-color: #fff;
   border-top: 1px solid #ddd;
@@ -25,6 +66,7 @@ header{
 }
 
 .hirdetes{
+  margin: 5px;
   border: 1px solid black;
   width: 100%;
   th {
