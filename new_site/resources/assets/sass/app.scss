@@ -28,6 +28,13 @@ li.active{
   top: -32px;
 }
 
+.content_pic{
+  max-width: 100%;
+  vertical-align: text-top;
+  float: left;
+  margin: 5px 10px;
+}
+
 .content_pic_l{
   width: 20%;
   vertical-align: text-top;
@@ -93,4 +100,80 @@ header{
   th{
     text-align: center;
   }
+}
+
+figure {
+  display: table;
+  margin: auto;
+  text-align: center;
+  width: 1px;
+}
+
+h1{
+  text-align: center;
+}
+
+img, figcaption {
+  display: table-row;
+  vertical-align: bottom;
+}
+
+p{
+  padding-top:5px;
+  text-align: justify;
+}
+
+.portre{
+  height: 200px;
+  width: 150px;
+}
+
+.table-of-content {
+  dl {
+    clear: both;
+    width: 100%;
+    overflow: hidden;
+  }
+  dt, dd {
+    background: #fff
+  }
+  dt {
+    float: left;
+    padding-right: 3px
+  }
+  dd {
+    margin: 0;
+    float: right;
+    padding-left: 3px
+  }
+  ol {
+    margin: 0;
+    padding: 0;
+    list-style: none
+  }
+  li ol {
+    width: 95%;
+    padding-left: 5%
+  }
+}
+
+.table-colored{
+  background-color: #31708f;
+  color: #fff;
+}
+
+.ttag{
+  margin-top: 20px;
+}
+
+.tname{
+  margin-top: 0;
+}
+
+.alert {
+  padding: 5px;
+  margin-bottom: 5px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  text-align: center;
 }

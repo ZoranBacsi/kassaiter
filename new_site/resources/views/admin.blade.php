@@ -1,7 +1,7 @@
 @extends('index')
 
 @section('content')
-    <row class="hirdetes_lista">
+    <div class="row hirdetes_lista">
         <h1>Hirdetések</h1>
         <ol>
         <?php
@@ -10,8 +10,8 @@
             }
         ?>
         </ol>
-    </row>
-    <row class="mise_lista">
+    </div>
+    <div class="row mise_lista">
         <h1>Miserend</h1>
         <table>
             <tr><th>Dátum</th><th>Időpont</th><th>Szándék</th><th>Típus</th><th>Végzi</th></tr>
@@ -27,7 +27,7 @@
             }
             ?>
         </table>
-    </row>
+    </div>
     <br />
     <input type="button" name="save" value="Mentés">
     <br />

@@ -13,5 +13,12 @@
         'hazassag' => 'Házasságkötés',
         'miseszandek' => 'Miseszándék',
         'temetes' => 'Temetés'
+    ],
+    'kozossegek' => [
+        'foglalkozasaink' => 'Foglalkozásaink',
+        'cursillo' => 'Cursillo Közösség',
+        'monikakor' => 'Szent Mónika kör',
+        'oltaregyesulet' => 'Oltáregyesület',
+        'ifjusag' => 'Ifjúsági Közösség'
     ]
 ];

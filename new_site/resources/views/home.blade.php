@@ -1,7 +1,7 @@
 @extends('index')
 
 @section('content')
-        <row>
+        <div class="row">
             <div class="col-lg-6">
                 <h1>Aktuális hirdetéseink</h1>
                 <ol>
@@ -29,5 +29,5 @@
                     ?>
                 </table>
             </div>
-        </row>
+        </div>
 @endsection

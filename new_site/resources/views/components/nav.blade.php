@@ -14,15 +14,15 @@
                     <ul class="dropdown-menu">
                         <li><a href="/plebania">Plébánia</a></li>
                         <li><a href="/szolgalat">Szolgálat</a></li>
-                        <li><a href="#">Kollégium</a></li>
-                        <li><a href="#">Lelkipásztoraink</a></li>
-                        <li><a href="#">Egyháztanács</a></li>
-                        <li><a href="#">Közösségek</a></li>
-                        <li><a href="#">Elérhetőség</a></li>
+                        <li><a href="/kollegium">Kollégium</a></li>
+                        <li><a href="/lelkipasztoraink">Lelkipásztoraink</a></li>
+                        <li><a href="/egyhaztanacs">Egyháztanács</a></li>
+                        <li><a href="/kozossegek">Közösségek</a></li>
+                        <li><a href="/elerhetoseg">Elérhetőség</a></li>
                     </ul>
                 </li>
                 <li>
-                    <a href="/admin">Galéria</a>
+                    <a href="/galeria">Galéria</a>
                 </li>
                 <li>
                     <a href="/hirado">Szentlélekhiradó</a>
