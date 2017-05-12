@@ -28,6 +28,11 @@ li.active{
   top: -32px;
 }
 
+.center_warning{
+  font-weight: bold;
+  text-align: center;
+}
+
 .content_pic{
   max-width: 100%;
   vertical-align: text-top;
@@ -51,6 +56,25 @@ li.active{
 
 .created{
   text-align:right;
+}
+.btn-default{
+  height: 40px;
+  width: 100px;
+  border-radius: 0px 4px 4px 0px;
+  border-left: 0;
+  margin: 10px 0;
+}
+.form-control{
+  height: 40px;
+  max-width: calc(100% - 100px);
+  border-radius: 4px 0 0 4px;
+  margin: 10px 0;
+}
+.home_button{
+  padding: 0 !important;
+}
+.centered{
+  margin:auto;
 }
 .glyphicon-chevron-down {
   font-size: 8px;
