@@ -8,5 +8,7 @@
 
 ` php artisan tabs:generate szentsegek --tabs="kereszteles,hazassag,miseszandek,temetes" `
 
+` php artisan tabs:generate szentsegek --tabs="kereszteles,hazassag,miseszandek,temetes" `
+
 ## Install Laratabs
 

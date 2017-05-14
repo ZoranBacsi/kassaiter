@@ -23,6 +23,10 @@ Route::get('/mihalovics_zsigmond', function () {
     return view('szemelyek.mihalovics_zsigmond');
 });
 
+Route::get('/olvasnivalo', function () {
+    return view('olvasnivalo');
+});
+
 // Rólunk //
 
 Route::get('/plebania', function () {

@@ -24,6 +24,15 @@
                         <li><a href="/elerhetoseg">Elérhetőség</a></li>
                     </ul>
                 </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Egyházi élet(évek) &ensp;<span class="glyphicon glyphicon-chevron-down"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://www.magyarkurir.hu/hirek/meghirdette-papa-hit-evet">Hit éve 2013</a></li>
+                        <li><a href="http://www.magyarkurir.hu/megszentelt-elet">Megszentelt élet éve 2015</a></li>
+                        <li><a href="http://www.magyarkurir.hu/cimke/az-irgalmassag-szenteve">Irgalmasság éve 2016</a></li>
+                        <li><a href="/olvasnivalo">Olvasnivaló</a></li>
+                    </ul>
+                </li>
                 <li>
                     <a href="/galeria">Galéria</a>
                 </li>
