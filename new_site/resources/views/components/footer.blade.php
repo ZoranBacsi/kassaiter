@@ -25,9 +25,10 @@
             <div class="col-sm-4 col-lg-4">
                 <h3>Hasznos linkek</h3>
                 <ul class="link-list">
-                    <li><a href="http://andrasatya.blog.hu">András Atya Blogja</a></li>
+                    <li><a href="http://uj.katolikus.hu/">Magyar Katolikus Egyház</a></li>
+                    <li><a href="http://www.esztergomi-ersekseg.hu">Esztergom-Budapesti Főegyházmegye</a></li>
                     <li><a href="http://kkakademia.hu">Keresztény Kultúrális Akadémia</a></li>
-                    <li><a href="http://www.magyarkurir.hu">Magyar Kurír</a></li>
+                    <li><a href="http://andrasatya.blog.hu">Szem, Lélek, Értelem Blog</a></li>
                 </ul>
             </div>
         </div>

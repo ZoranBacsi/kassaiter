@@ -14,10 +14,10 @@
     </div>
     <div class="col-lg-6">
         <figure>
-            <img src="img/danko_ferenc.jpg" alt="pajor_andras">
+            <img src="img/danko_ferenc.jpg" alt="danko_ferenc">
             <figcaption>
                 <h2><strong>Dankó Ferenc</strong></h2>
-                káplán
+                kórházlelkész, kisegítő lelkész
             </figcaption>
         </figure>
     </div>

@@ -20,9 +20,11 @@
 </div>
 <div class="row">
     <h3>Filmklub</h3>
-    <p>&nbsp;</p>
-    <h3>Nyugdíjas klub</h3>
-    <p>&nbsp;</p>
+    <p> A filmklubbot a Szent Mónika kör működteti, olvasókörrel egybekötve. Az összejövetelek nyitottak, minden érdeklődőt szeretettel fogadnak.
+        Az egyes alkalmakat keresse a templomi hirdetésben.
+    </p>
+    <h3>Nyugdíjas hittan</h3>
+    <p> Minden kedden reggel 8 órakkor, Ferenc atya várja az idősebb testvéreket.</p>
     <h3>Fiatal házasok</h3>
     <p>A csoport elsősorban a fiatal házasokat célozza meg, de természetesen várunk minden házaspárt, jegyespárt, fiatalt és idősebbet, akik egy közösségbe szeretnének tartozni.<br><br>
     Vannak kötötebb foglalkozások (pl. Biblia olvasás, elemzés) és kötetlenebbek is (pl. kirándulás) de minden ötletre nyitottak vagyunk.<br><br>

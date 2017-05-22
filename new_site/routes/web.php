@@ -1,10 +1,11 @@
 <?php
 use App\konyv;
 use App\Miserend;
+use App\Hirdetes;
 use Illuminate\Support\Facades\Input;
 
 Route::get('/', function () {
-    return view('home')->withDetails ( Miserend::all() );
+    return view('home')->withMiserend ( Miserend::all() )->withHirdetes ( Hirdetes::all() );
 });
 
 Route::get('/admin', function () {
@@ -59,6 +60,14 @@ Route::get('/elerhetoseg', function () {
 
 // Főmenü //
 
+Route::get('/szentsegeink', function () {
+    return View::make('szentsegeink', ['tabs'=>Tabs::get('szentsegeink')]);
+});
+
+Route::get('/szentmise', function () {
+    return view('szentmise');
+});
+
 Route::get('/galeria', function () {
     return view('galeria');
 });
@@ -71,16 +80,9 @@ Route::get('/programok', function () {
     return view('programok');
 });
 
-Route::get('/kirandulas', function () {
-    return view('kirandulas');
-});
-
-Route::get('/ad_keres', function () {
-    return view('ad_keres');
-});
-
 Route::get ( '/konyvtar', function () {
-    return view ( 'konyvtar' )->withDetails ( konyv::all() );
+    $cnt = 0;
+    return view ( 'konyvtar' )->withDetails ( konyv::all() )->withCounter ( $cnt );
 } );
 
 Route::any ( '/konyvtar_kereso', function () {

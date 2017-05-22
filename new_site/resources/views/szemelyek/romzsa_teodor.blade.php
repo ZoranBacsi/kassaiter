@@ -7,7 +7,7 @@
         Felhasználhatóság: csak lelkipásztori munkára, nyomtatása nem engedélyezett. - Szerzői jog tulajdonosa: Ósz István
     </q>
 
-    <h1>Romzsa Teodor élete és munkássága</h1>
+    <h1>Boldog Romzsa Teodor élete és munkássága</h1>
     <h3>Bevezetés</h3>
     Mivel közeledni érzem földi életem befejezését, kötelességemnek tartom, hogy leírjam elhunyt görögkatolikus püspök atyánk, Romzsa Teodor őexcellenciája, 
     halálának történetét, aki nemes lelkét 1947. november 1-én adta vissza Teremtőjének a munkácsi (Ukrajna Kárpátalja részén) kórházban.

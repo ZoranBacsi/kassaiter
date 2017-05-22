@@ -32,6 +32,12 @@
                         <li><a href="http://www.magyarkurir.hu/cimke/az-irgalmassag-szenteve">Irgalmasság éve 2016</a></li>
                         <li><a href="/olvasnivalo">Olvasnivaló</a></li>
                     </ul>
+                </li><li class="dropdown">
+                    <a href="#" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Egyházi témák &ensp;<span class="glyphicon glyphicon-chevron-down"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/szentsegeink">Szentségeink</a></li>
+                        <li><a href="/szentmise">Szentmise</a></li>
+                    </ul>
                 </li>
                 <li>
                     <a href="/galeria">Galéria</a>
@@ -41,12 +47,6 @@
                 </li>
                 <li>
                     <a href="/programok">Programok</a>
-                </li>
-                <li>
-                    <a href="/kirandulas">Kirándulás</a>
-                </li>
-                <li>
-                    <a href="/ad_keres">Ad/Keres</a>
                 </li>
                 <li>
                     <a href="/konyvtar">Könyvtár</a>

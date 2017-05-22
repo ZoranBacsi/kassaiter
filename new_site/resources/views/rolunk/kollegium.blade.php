@@ -2,17 +2,18 @@
 
 @section('content')
 <p>
-    <h1>Romzsa Teodor Kollégium</h1>
-    Budapesten, a XIV. kerületben, egy gyönyörű parkkal szemben áll a Szentlélek Plébánia, melyben a lakásokból kialakított kollégium <a href="/romzsa_teodor">Romzsa Teodor</a> vértanú püspök nevét viseli.<br>
+    <h1>Boldog Romzsa Teodor Kollégium</h1>
+    Budapesten, a XIV. kerületben, egy gyönyörű parkkal szemben áll a Szentlélek Plébánia, melyben a lakásokból kialakított kollégium <a href="/romzsa_teodor">Boldog Romzsa Teodor</a> vértanú püspök nevét viseli.<br>
     A főként főiskolás és egyetemista fiatalok családias közösségben élnek itt a plébános atya felügyeletével.
     Esténként közös imádsággal, heti egy alkalommal pedig egyetemista szintű katekézissel, és persze egy kellőképpen fegyelmezett renddel gondoskodunk egymás számára a hívő, baráti légkörről és a tanuláshoz szükséges nyugalomról.
     <br><br>
     Felvételi követelmények:
     <ul>
-        <li>lehetőleg 18 és 22 év közti, főiskolás vagy egyetemista fiúkat várunk</li>
+        <li>lehetőleg 18 és 25 év közti, főiskolás vagy egyetemista fiúkat várunk</li>
         <li>plébánosi ajánlás</li>
-    <li>megfelelő alkalmazkodási képesség</li>
-    <li>lakbér: 13.000,- Ft + rezsi – minden hónap 10-éig.</li>
+        <li>megfelelő alkalmazkodási képesség</li>
+        <li>lakbér: lakásonként változó + rezsi – minden hónap 10-éig.</li>
+        <li>40.000 Ft kaukció, amely az év végén lelakható</li>
     </ul>
 </p>
 <figure>

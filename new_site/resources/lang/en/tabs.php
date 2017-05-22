@@ -20,5 +20,15 @@
         'monikakor' => 'Szent Mónika kör',
         'oltaregyesulet' => 'Oltáregyesület',
         'ifjusag' => 'Ifjúsági Közösség'
+    ],
+    'szentsegeink' =>[
+        'szentsegek' => 'Az egyház szentségei',
+        'keresztseg' => 'Keresztség',
+        'bunbanat' => 'Bűnbánat',
+        'eucharisztia' => 'Eucharistia',
+        'bermalkozas' => 'Bérmálkozás',
+        'hazassag' => 'Házasság',
+        'egyhazirend' => 'Egyházi rend',
+        'betegekkenete' => 'Betegek kenete'
     ]
 ];

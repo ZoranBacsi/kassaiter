@@ -5,21 +5,15 @@
             <div class="col-lg-6">
                 <h2>Aktuális hirdetéseink</h2>
                 <ol>
-                <?php
-                use App\Hirdetes;
-
-                $hirdetes = Hirdetes::all();
-
-                foreach ($hirdetes as $item){
-                    echo "<li>$item->story</li>";
-                }
-                ?>
+                    @foreach ($hirdetes as $item)
+                        <li>{{$item->story}}</li>
+                    @endforeach
                 </ol>
             </div>
             <div class="col-lg-6">
                 <div class="row"><h2>Szentmiséink a héten</h2></div>
 
-                @foreach ($details as $item)
+                @foreach ($miserend as $item)
                     @if($item->id%2 ==0)
                         <div class='row table-colored'>
                     @else

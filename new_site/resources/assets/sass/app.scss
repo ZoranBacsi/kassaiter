@@ -213,6 +213,11 @@ p{
   padding: 0 5px;
 }
 
+.two_column{
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
 .ttag{
   margin-top: 20px;
 }
@@ -228,3 +233,16 @@ p{
   border-radius: 4px;
   text-align: center;
 }
+
+.multicolumn_list{
+  column-count: 4;
+  column-gap: 6px;
+  list-style-position: inside;
+  padding-left: 0px;
+}
+
+.pdfobject-container {
+  height: 800px;
+  width: 100%;
+}
+.pdfobject { border: 1px solid #666; }
