@@ -1,12 +1,13 @@
 <h1>Miserendek</h1>
 <p>Az alábbi miserend tájékoztató jellegű. Esetleges eltérések előfordulhatnak, melyekről a kezdőlapon az aktuális hírdetéseknél tájékozódhat.</p>
-hétfő: 7:30 (A)<br />
-kedd: 18:30 (F)<br />
-szerda: 18:30 (A)<br />
-csütörtök: 7:30 (F)<br />
-péntek: 18:30 (A)<br />
-szombat: 18:30 (A)<br />
+hétfő: 7:30 (A)<br>
+kedd: 18:30 (F)<br>
+szerda: 18:30 (A)<br>
+csütörtök: 7:30 (F)<br>
+péntek: 18:30 (A)<br>
+szombat: 18:30 (A)<br>
 vasárnap: 7:30 (F), 9:00 (A), 10:30 (A), 18:30 (A)<br><br>
+minden hónap első szombatján Urnatemetőnk halottjaiért ajánljuk fel a szentmisét.
 (A) : András atya&nbsp; (F) : Ferenc atya<br><br>
 
 <h4>Kivételes időpontok:</h4>

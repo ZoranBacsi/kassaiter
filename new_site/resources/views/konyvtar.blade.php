@@ -4,8 +4,8 @@
     <h1>Könyvtár</h1>
     <div class="row">
         <p class="center_warning">
-            A könyvtár szeretettel várja a Kassai téri gyülekezet tagjait!<br>
-            A könyvtári belépéshez (kölcsönzéshez) igazoló lapot kell kérni András atyától.
+            A könyvtár szeretettel várja a Kassai téri gyülekezet tagjait!<br><br>
+	    <strong>A könyvtár  vasárnap délelőtt 10-12 óráig tart nyitva.</strong>
         </p>
         <h1>Katalógus</h1>
         <p class="center_warning">A listánk még nem teljes. Az elektronikus katalógusért köszönet az Olvasókör működtetőinek!</p>

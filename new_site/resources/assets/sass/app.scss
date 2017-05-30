@@ -14,9 +14,9 @@
       border-radius: 0 0 6px 6px;
       color: #333 !important;
     }
-    a:focus, a:visited{
+    a:focus, a:visited, a:hover{
       color: #333 !important;
-      background-color: #C0C0C0 !important;
+      background-color: #c0a48f !important;
     }
   }
 }
@@ -24,7 +24,7 @@
 li.active{
   a{
     color: #333 !important;
-    background-color: #C0C0C0 !important;
+    background-color: #c0a48f !important;
   }
 }
 .top_align{
@@ -154,6 +154,7 @@ p{
 .portre{
   height: 200px;
   width: 150px;
+  display: none;
 }
 
 .table-of-content {
@@ -186,8 +187,8 @@ p{
 }
 
 .table-colored{
-  background-color: #31708f;
-  color: #fff;
+  background-color: #c0a48f;
+  color: #392a27;
 }
 
 .to_top{

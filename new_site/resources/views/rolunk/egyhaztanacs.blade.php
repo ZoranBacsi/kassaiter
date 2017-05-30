@@ -3,7 +3,7 @@
 @section('content')
     <h1>Egyháztanácsunk tagjai</h1>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/obertj.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -16,7 +16,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/biharyz.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -27,7 +27,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/furulyasg.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -39,7 +39,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/solteszp.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -50,7 +50,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/vinczej.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -62,7 +62,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             &nbsp;
         </div>
         <div class="col-lg-9">
@@ -72,7 +72,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/szalayk.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -84,7 +84,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/foldesm.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -103,7 +103,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/zsemberya.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -114,7 +114,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/gasparr.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -125,7 +125,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/vinczeb.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -136,7 +136,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/gasparcs.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -148,7 +148,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/kissm.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -159,7 +159,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/laszloi.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -170,7 +170,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/kucsmak.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -182,7 +182,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/diospatonyim.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -193,7 +193,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/bendek.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -204,7 +204,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/laszlocs.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -215,7 +215,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/gyulaiz.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -225,7 +225,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/horinkag.jpg"/>
         </div>
         <div class="col-lg-9">
@@ -235,7 +235,7 @@
         </div>
     </div>
     <div class="row ttag">
-        <div class="col-lg-3">
+        <div class="col-lg-3 hidden">
             <img class="portre" alt="kep" src="img/tanacs/csernyil.jpg"/>
         </div>
         <div class="col-lg-9">
