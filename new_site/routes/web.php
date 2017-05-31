@@ -2,6 +2,8 @@
 use App\konyv;
 use App\Miserend;
 use App\Hirdetes;
+use App\Program;
+use Carbon\Carbon;
 use Illuminate\Support\Facades\Input;
 
 Route::get('/', function () {
@@ -77,7 +79,11 @@ Route::get('/hirado', function () {
 });
 
 Route::get('/programok', function () {
-    return view('programok');
+    $today = Carbon::now();
+    $actual = Program::where ( 'tal_date', '>=', Carbon::now() )->get ();
+    $archive = Program::where ( 'tal_date', '<', Carbon::now() )->get ();
+    $planned = Program::whereNull ('tal_date')->get ();
+    return view('programok')->withAktualis( $actual )->withTervezett ( $planned )->withLejart ( $archive )->withToday( $today );
 });
 
 Route::get ( '/konyvtar', function () {
