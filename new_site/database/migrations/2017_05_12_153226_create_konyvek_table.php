@@ -15,11 +15,11 @@ class CreateKonyvekTable extends Migration
     {
         Schema::create('konyvek', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('ssz');
-            $table->string('cim');
-            $table->string('szerzo');
-            $table->string('kiado');
-            $table->string('ev');
+            $table->text('ssz');
+            $table->text('cim');
+            $table->text('szerzo');
+            $table->text('kiado');
+            $table->text('ev');
         });
     }
 

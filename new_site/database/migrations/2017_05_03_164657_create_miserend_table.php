@@ -16,10 +16,10 @@ class CreateMiserendTable extends Migration
         Schema::create('miserend', function (Blueprint $table) {
             $table->increments('id');
             $table->date('date');
-            $table->string('time');
-            $table->string('story');
-            $table->string('type');
-            $table->string('priest');
+            $table->text('time');
+            $table->text('story');
+            $table->text('type');
+            $table->text('priest');
         });
     }
 

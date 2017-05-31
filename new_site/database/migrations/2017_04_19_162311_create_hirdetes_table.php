@@ -15,7 +15,7 @@ class CreateHirdetesTable extends Migration
     {
         Schema::create('hirdetes', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('story');
+            $table->text('story');
         });
     }
 
