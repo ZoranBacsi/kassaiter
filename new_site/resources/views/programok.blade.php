@@ -19,8 +19,9 @@
                     <strong>Találkozó helye, ideje:</strong> {{$item->tal_hely}} , {{$item->tal_date}} <br>
                     <strong>Időtartam:</strong> {{$item->idotartam}} <br>
                     {{$item->story}} <br>
-                    <strong>Jelentkezés, bővebb információ:</strong> {{$item->kapcsolat}} <br>
-                    <strong>Jelentkezési határidő:</strong> {{$item->hatarido}}
+                    <strong>Jelentkezés, bővebb információ:</strong><br>
+                    &emsp;<i class="glyphicon glyphicon-envelope"></i>&nbsp;{{$item->kapcsolat}} <br>
+                    &emsp;<i class="glyphicon glyphicon-globe"></i>&nbsp;<a href="{{$item->izelito}}">{{$item->izelito}}</a>
                 </p>
 
             </div>
@@ -38,7 +39,9 @@
                     <strong>Találkozó helye, ideje:</strong> Bővebb információk hamarosan! <br>
                     <strong>Időtartam:</strong> {{$item->idotartam}} <br>
                     {{$item->story}} <br>
-                    <strong>Bővebb információ:</strong> {{$item->kapcsolat}} <br>
+                    <strong>Bővebb információ:</strong><br>
+                    &emsp;<i class="glyphicon glyphicon-envelope"></i>&nbsp;{{$item->kapcsolat}} <br>
+                    &emsp;<i class="glyphicon glyphicon-globe"></i>&nbsp;<a href="{{$item->izelito}}">{{$item->izelito}}</a>
                 </p>
 
             </div>
@@ -53,10 +56,11 @@
             <div class="col-lg-8 program_content">
                 <h4>{{$item->nev}}</h4>
                 <p>
-                    <strong>Kirándulás ideje:</strong> {{$item->tal_date}} <br>
                     <strong>Időtartam:</strong> {{$item->idotartam}} <br>
                     {{$item->story}} <br>
-                    <strong>Jelentkezés, bővebb információ:</strong> {{$item->kapcsolat}}
+                    <strong>Bővebb információ:</strong><br>
+                    &emsp;<i class="glyphicon glyphicon-envelope"></i>&nbsp;{{$item->kapcsolat}} <br>
+                    &emsp;<i class="glyphicon glyphicon-globe"></i>&nbsp;<a href="{{$item->izelito}}">{{$item->izelito}}</a>
                 </p>
 
             </div>
