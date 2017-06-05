@@ -19,7 +19,8 @@
         'cursillo' => 'Cursillo Közösség',
         'monikakor' => 'Szent Mónika kör',
         'oltaregyesulet' => 'Oltáregyesület',
-        'ifjusag' => 'Ifjúsági Közösség'
+        'ifjusag' => 'Ifjúsági Közösség',
+        'rozsafuzer' => 'Rózsafüzér Társulat'
     ],
     'szentsegeink' =>[
         'szentsegek' => 'Az egyház szentségei',
