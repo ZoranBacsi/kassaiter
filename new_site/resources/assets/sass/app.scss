@@ -197,9 +197,9 @@ p{
 
 .to_top{
   float: right;
-  color: $text-color;
-  border: 1px solid $text-color;
-  background-color: $brand-info;
+  background-color: #c0a48f;
+  color: #392a27;
+  border: 1px solid #392a27;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
@@ -271,4 +271,8 @@ p{
   padding: 5px;
   text-decoration: none;
   font-weight: bold;
+}
+
+h2, h3{
+  padding-top: 10px;
 }
