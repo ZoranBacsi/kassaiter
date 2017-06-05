@@ -7,7 +7,7 @@ use Carbon\Carbon;
 use Illuminate\Support\Facades\Input;
 
 Route::get('/', function () {
-    return view('home')->withMiserend ( Miserend::all() )->withHirdetes ( Hirdetes::all() );
+    return view('home')->withMiserend ( Miserend::all()->sortBy('id') )->withHirdetes ( Hirdetes::all()->sortBy('id') );
 });
 
 Route::get('/admin', function () {
