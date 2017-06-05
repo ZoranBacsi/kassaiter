@@ -52,6 +52,34 @@
                     <a href="/konyvtar">Könyvtár</a>
                 </li>
             </ul>
+            <ul class="nav navbar-nav pull-right">
+                @if (Auth::guest())
+                    <li><a href="{{ route('login') }}">Bejelentkezés</a></li>
+                @else
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                            {{ Auth::user()->name }} <i class="glyphicon glyphicon-chevron-down"></i></a>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="/register">Felhasználó hozzáadása</a>
+                            </li>
+                            <li>
+                                <a href="/admin">Adminisztráció</a>
+                            </li>
+                            <li>
+                                <a href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
+                                    Kijelentkezés
+                                </a>
+
+                                <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                                    {{ csrf_field() }}
+                                </form>
+                            </li>
+                        </ul>
+                    </li>
+                @endif
+            </ul>
         </div>
     </div>
 </div>

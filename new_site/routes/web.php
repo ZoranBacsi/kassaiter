@@ -100,3 +100,7 @@ Route::any ( '/konyvtar_kereso', function () {
     else
         return view ( 'konyvtar' );
 } );
+
+Auth::routes();
+
+Route::get('/admin', 'AdminController@index')->name('admin');
