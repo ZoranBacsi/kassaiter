@@ -1,5 +1,5 @@
 <figure>
-    <img src="img/kozossegek/szent_monika_kr.jpg" alt="pajor_andras">
+    <img src="img/kozossegek/szent_monika_kr.jpg" alt="Mónika kör">
     <figcaption>
         <h2><strong>Imádkozzunk együtt gyermekeinkért!</strong></h2>
     </figcaption>
