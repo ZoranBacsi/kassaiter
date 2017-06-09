@@ -4,7 +4,7 @@
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
-        <div class="row"><p class="alert alert-info">Az aktuális időpontok változhatnak (aktuális hírdetés szerint).</p></div>
+        <div class="row"><p class="fontos_info">Az aktuális időpontok változhatnak (aktuális hírdetés szerint).</p></div>
         <div class="row"><div class="col-lg-4"><strong>Filmklub :</strong></div> <div class="col-lg-8">hirdetés szerint</div></div>
         <div class="row table-colored"><div class="col-lg-4"><strong>Felnőtt katekézis :</strong></div><div class="col-lg-8">minden héten szerda esténként 19:00-tól</div></div>
         <div class="row"><div class="col-lg-4"><strong>Biblia kör :</strong></div><div class="col-lg-8">minden páratlan héten a szerda esténként 19:00-tól</div></div>
